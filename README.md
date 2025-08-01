@@ -1,8 +1,6 @@
 ![PNG LOGO](https://github.com/user-attachments/assets/e0fba218-6059-4c69-9d46-c9354e392b93)
 
-
-````markdown
-# 🚀 Modular Azure Batch Deployment with Terraform
+# 🚀  Azure Batch Deployment with Terraform
 
 This project uses **Terraform modules** to deploy a complete Azure Batch environment. Each component—such as the Batch Account, Jobs, Applications, Certificates, Pools, and Storage Account—is managed independently through reusable Terraform modules.
 
