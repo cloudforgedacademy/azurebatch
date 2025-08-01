@@ -1,5 +1,5 @@
 ![PNG LOGO](https://github.com/user-attachments/assets/e0fba218-6059-4c69-9d46-c9354e392b93)
----
+
 
 ````markdown
 # 🚀 Modular Azure Batch Deployment with Terraform
@@ -36,7 +36,7 @@ The following modules are used in this deployment:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-org/terraform-azure-batch-modules.git
+git https://github.com/cloudforgedacademy/azurebatch.git
 cd terraform-azure-batch-modules
 ````
 
